@@ -1,6 +1,3 @@
-Got it ✅ You want me to prepare a **README.md file** that you can put directly in your repo `etl_1`.
-
-Here’s a clean and simple **README.md** for your ETL pipeline project:
 
 ```markdown
 # 🛍️ Shop Customer ETL Pipeline
@@ -85,9 +82,4 @@ etl_1/
 * PostgreSQL database with loaded data
 * Documentation (`README.md`)
 
-```
-
----
-
-👉 Do you want me to also generate a **ready `etl.ipynb` notebook skeleton** with placeholders for each step (Extract, Transform, Load) so you can commit it along with this README?
-```
+`
