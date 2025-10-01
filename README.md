@@ -1,24 +1,5 @@
 
-```markdown
-# 🛍️ Shop Customer ETL Pipeline
-
-## 📖 About the Dataset
-This project uses the **Shop Customer Data** dataset.  
-The dataset contains **2000 customer records** with 8 attributes collected through membership cards.  
-
-### Columns:
-- `CustomerID` – Unique customer ID  
-- `Gender` – Male/Female  
-- `Age` – Customer’s age  
-- `Annual Income ($)` – Annual income in USD  
-- `Spending Score (1-100)` – Customer spending score (1 = low spender, 100 = high spender)  
-- `Profession` – Profession of the customer  
-- `Work Experience` – Years of work experience  
-- `Family Size` – Size of the family  
-
----
-
-## 🎯 Project Goal
+##  Project Goal
 The goal of this project is to demonstrate an **ETL pipeline** using **Python, Pandas, and PostgreSQL**.  
 
 Steps:
